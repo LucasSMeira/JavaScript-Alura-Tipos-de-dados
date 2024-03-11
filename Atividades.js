@@ -23,3 +23,10 @@ const numero = 56;
 console.log(String(numero));
 const strings = "caixa";
 console.log(parseInt(strings));
+
+const stringUpper = vString;
+console.log(vString.toLocaleUpperCase());
+const stringLowe = vString;
+console.log(vString.toLocaleLowerCase());
+const stringsub = vString;
+console.log(vString.substring(7));
