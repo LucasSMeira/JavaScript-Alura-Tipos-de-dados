@@ -12,3 +12,8 @@ let num;
 let variavel = null;
 console.log(num);
 console.log(variavel);
+
+const vNum = 77;
+const vString = "não é possível que o número é ";
+const estaAbismado = true;
+console.log(`Rafaela comenta ${vString} ,após ganhar no número ${vNum} e confirmou que ficou abismada ${estaAbismado}`);
