@@ -17,3 +17,9 @@ const vNum = 77;
 const vString = "não é possível que o número é ";
 const estaAbismado = true;
 console.log(`Rafaela comenta ${vString} ,após ganhar no número ${vNum} e confirmou que ficou abismada ${estaAbismado}`);
+
+
+const numero = 56;
+console.log(String(numero));
+const strings = "caixa";
+console.log(parseInt(strings));
